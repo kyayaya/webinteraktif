@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 #import matplotlib.pyplot as plt
 
-st.write("KyayaPuput Tabel Coding")
+st.write("Kyaya Tabel Coding")
 df = pd.DataFrame({
     'No' : [1,2,3,4],
     'Nama' : ['Nadia','Zahwa','Putri','Kia'],
