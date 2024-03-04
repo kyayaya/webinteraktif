@@ -8,5 +8,5 @@ def page_4():
     hitung = st.button ("Hitung Luas")
 
     if hitung :
-        luas = panjang = lebar
+        luas = panjang * lebar
         st.success (f"Luas Persegi Panjang Adalah = {luas} cm")
